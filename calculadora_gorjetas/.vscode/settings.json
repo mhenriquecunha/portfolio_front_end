@@ -1,0 +1,34 @@
+{
+    "git.ignoreLimitWarning": true,
+    "cSpell.words": [
+        "Aceitável",
+        "cada",
+        "Calculador",
+        "Calculadora",
+        "Calcular",
+        "cálculo",
+        "Conta",
+        "Criando",
+        "dividir",
+        "Escolha",
+        "Ficou",
+        "Função",
+        "Gorjeta",
+        "Gorjetas",
+        "Incrível",
+        "Opção",
+        "Péssimo",
+        "pessoa",
+        "pessoas",
+        "preencha",
+        "Quantas",
+        "Quanto",
+        "Ruim",
+        "serviço",
+        "valores"
+    ],
+    "python.linting.pylintArgs": [
+        "--init-hook",
+        "import sys; sys.path.extend([\"\"c:\\\\Users\\\\MAURO HENRIQUE\\\\.vscode\\\\extensions\\\\ms-python.devicesimulatorexpress-2020.0.36321\\\\out\"\",\"\"c:\\\\Users\\\\MAURO HENRIQUE\\\\.vscode\\\\extensions\\\\ms-python.devicesimulatorexpress-2020.0.36321\\\\out\\\\micropython\"\",\"\"c:\\\\Users\\\\MAURO HENRIQUE\\\\.vscode\\\\extensions\\\\ms-python.devicesimulatorexpress-2020.0.36321\\\\out\\\\clue\"\",\"\"c:\\\\Users\\\\MAURO HENRIQUE\\\\.vscode\\\\extensions\\\\ms-python.devicesimulatorexpress-2020.0.36321\\\\out\\\\base_circuitpython\"\"])"
+    ]
+}
